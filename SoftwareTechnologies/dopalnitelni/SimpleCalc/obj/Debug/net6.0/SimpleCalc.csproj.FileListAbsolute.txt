@@ -1,0 +1,15 @@
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\bin\Debug\net6.0\SimpleCalc.exe
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\bin\Debug\net6.0\SimpleCalc.deps.json
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\bin\Debug\net6.0\SimpleCalc.runtimeconfig.json
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\bin\Debug\net6.0\SimpleCalc.dll
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\bin\Debug\net6.0\SimpleCalc.pdb
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\SimpleCalc.csproj.AssemblyReference.cache
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\SimpleCalc.AssemblyInfoInputs.cache
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\SimpleCalc.AssemblyInfo.cs
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\SimpleCalc.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\SimpleCalc.dll
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\refint\SimpleCalc.dll
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\SimpleCalc.pdb
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\SimpleCalc.genruntimeconfig.cache
+D:\SoftUni\SoftwareTechnologies\dopalnitelni\SimpleCalc\obj\Debug\net6.0\ref\SimpleCalc.dll
